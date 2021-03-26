@@ -1,2 +1,0 @@
-# ezeoo.github.io
-Myblog
